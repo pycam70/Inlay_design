@@ -1,0 +1,4 @@
+matplotlib.pyplot
+Ipython.display
+numpy
+ipywidgets
